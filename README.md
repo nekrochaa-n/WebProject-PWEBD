@@ -1,2 +1,4 @@
-# WebProject-PWEBD
-Web Project Kelompok Taufik Jihad Irshad
+# konekin - final project
+
+final project pemrograman web
+Kelompok Taufik Jihad Irshad
